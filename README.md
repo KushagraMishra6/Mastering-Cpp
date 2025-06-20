@@ -26,6 +26,9 @@ _"Mastering C++"_ is a beginner-friendly book that builds a strong foundation in
 ## ✍️ Author
 
 Kushagra Mishra  
+IIT Guwahati '2028
+Dept. of Civil Engineering
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/kushagra-mishra-863896341)  
 [![GitHub](https://img.shields.io/badge/GitHub-black?logo=github)](https://github.com/KushagraMishra6)
 

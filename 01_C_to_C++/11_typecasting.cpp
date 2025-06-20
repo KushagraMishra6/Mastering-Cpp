@@ -1,5 +1,7 @@
 // Typecasting in C++
 
+// Syntax is: Datatype (Variable); for eg. int(age);
+
 #include<iostream>
 using namespace std;
 

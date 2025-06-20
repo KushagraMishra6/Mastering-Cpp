@@ -8,7 +8,7 @@ function return address onto the stack, followed by a call to the function. On r
 to restore the old status. This process is costlier.*/
 
 /* When invoking the inline function, it will be suitably replaced by the instruction(s) of the 
-square(..) function body*/
+square(..) function body*/ 
 
 #include<iostream>
 using namespace std;

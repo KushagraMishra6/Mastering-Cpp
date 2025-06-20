@@ -1,0 +1,24 @@
+Template function overloading
+
+1) Overloading with non-template function
+
+void show(int x){
+    cout<<"Non-Template function : "<<x<<endl;
+}
+
+template <class T>
+void show(T x){
+    cout<<"Template function : "<<x<<endl;
+}
+
+2) Overloading with template function
+
+template <class T>
+void show(T x){
+    cout<<"Single Parameter : "<<x<<endl;
+}
+
+template <class T1, class T2>
+void show(T1 x, T2 y){
+    cout<<"Double Parameters : "<<x<<"  "<<y<<endl;
+}

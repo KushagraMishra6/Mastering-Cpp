@@ -61,4 +61,6 @@ int main(){
     */
    c = b>>2;
    cout<<"b>>2 = "<<c<<endl;
+
+   return 0;
 }

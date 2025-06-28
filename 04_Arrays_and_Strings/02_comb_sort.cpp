@@ -15,7 +15,7 @@ int main(){
     int flag = 1;
     int arr[] = {10, 5, 7, 6, 1, 2, 4, 8, 3, 9};
 
-    int gap = 10;
+    int gap = 10;       // size of the array
 
     do{
         flag = 1;

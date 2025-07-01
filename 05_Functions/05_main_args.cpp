@@ -21,5 +21,10 @@ int main(int argc, char *argv[], char *envp[]){
         cout<<argv[i]<<'\n';
     }
 
+    cout<<"The Environment Variables Are :\n";
+    while(*envp[i]){
+        cout<<envp[i++]<<'\n';
+    }
+
     return 0;
 }
